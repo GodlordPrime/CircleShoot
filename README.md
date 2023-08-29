@@ -2,7 +2,7 @@
 A simple shooter horde game 
 
 
-<a href="https://adelalkhesh.github.io/CircleShoot/"> Demo the game</a>
+<a href="https://shenprime.github.io/CircleShoot/"> Demo the game</a>
 
 
 <h2> Description </h2> 
